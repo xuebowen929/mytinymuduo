@@ -1,0 +1,3 @@
+/data1/xby/xby1/MyTinymuduo/build/CMakeFiles/mytinymuduo.dir
+/data1/xby/xby1/MyTinymuduo/build/CMakeFiles/edit_cache.dir
+/data1/xby/xby1/MyTinymuduo/build/CMakeFiles/rebuild_cache.dir

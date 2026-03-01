@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "/data1/xby/xby1/MyTinymuduo/lib/libmytinymuduo.pdb"
+  "/data1/xby/xby1/MyTinymuduo/lib/libmytinymuduo.so"
+  "CMakeFiles/mytinymuduo.dir/base/CurrentThread.o"
+  "CMakeFiles/mytinymuduo.dir/base/CurrentThread.o.d"
+  "CMakeFiles/mytinymuduo.dir/base/Logger.o"
+  "CMakeFiles/mytinymuduo.dir/base/Logger.o.d"
+  "CMakeFiles/mytinymuduo.dir/base/Thread.o"
+  "CMakeFiles/mytinymuduo.dir/base/Thread.o.d"
+  "CMakeFiles/mytinymuduo.dir/base/Timestamp.o"
+  "CMakeFiles/mytinymuduo.dir/base/Timestamp.o.d"
+  "CMakeFiles/mytinymuduo.dir/net/Acceptor.o"
+  "CMakeFiles/mytinymuduo.dir/net/Acceptor.o.d"
+  "CMakeFiles/mytinymuduo.dir/net/Buffer.o"
+  "CMakeFiles/mytinymuduo.dir/net/Buffer.o.d"
+  "CMakeFiles/mytinymuduo.dir/net/Channel.o"
+  "CMakeFiles/mytinymuduo.dir/net/Channel.o.d"
+  "CMakeFiles/mytinymuduo.dir/net/DefaultPoller.o"
+  "CMakeFiles/mytinymuduo.dir/net/DefaultPoller.o.d"
+  "CMakeFiles/mytinymuduo.dir/net/EPollPoller.o"
+  "CMakeFiles/mytinymuduo.dir/net/EPollPoller.o.d"
+  "CMakeFiles/mytinymuduo.dir/net/EventLoop.o"
+  "CMakeFiles/mytinymuduo.dir/net/EventLoop.o.d"
+  "CMakeFiles/mytinymuduo.dir/net/EventLoopThread.o"
+  "CMakeFiles/mytinymuduo.dir/net/EventLoopThread.o.d"
+  "CMakeFiles/mytinymuduo.dir/net/EventLoopThreadPool.o"
+  "CMakeFiles/mytinymuduo.dir/net/EventLoopThreadPool.o.d"
+  "CMakeFiles/mytinymuduo.dir/net/InetAddress.o"
+  "CMakeFiles/mytinymuduo.dir/net/InetAddress.o.d"
+  "CMakeFiles/mytinymuduo.dir/net/Poller.o"
+  "CMakeFiles/mytinymuduo.dir/net/Poller.o.d"
+  "CMakeFiles/mytinymuduo.dir/net/Socket.o"
+  "CMakeFiles/mytinymuduo.dir/net/Socket.o.d"
+  "CMakeFiles/mytinymuduo.dir/net/TcpConnection.o"
+  "CMakeFiles/mytinymuduo.dir/net/TcpConnection.o.d"
+  "CMakeFiles/mytinymuduo.dir/net/TcpServer.o"
+  "CMakeFiles/mytinymuduo.dir/net/TcpServer.o.d"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/mytinymuduo.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
